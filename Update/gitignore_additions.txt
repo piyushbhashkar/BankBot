@@ -1,0 +1,15 @@
+# Add these lines to your .gitignore file to prevent committing credentials
+
+# Proxy configuration with credentials
+proxy_config.py
+
+# Environment files
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
